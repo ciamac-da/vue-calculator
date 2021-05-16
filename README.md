@@ -1,5 +1,7 @@
 # vue-calculator
 # https://ciamac-da.github.io/vue-calculator/
+
+![](readmeImage/1.jpg)
 ## Project setup
 ```
 npm install
